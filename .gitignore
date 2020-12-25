@@ -5,6 +5,7 @@
 !.gitignore
 !alacritty/*
 !awesome/*
+!zsh/*
 
 # Even if the files are in subdirectories
 !*/
