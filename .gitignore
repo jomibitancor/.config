@@ -4,7 +4,7 @@
 # Except these files...
 !.gitignore
 !alacritty/*
-!awesome/*
+# !awesome/*
 
 # Even if the files are in subdirectories
 !*/
